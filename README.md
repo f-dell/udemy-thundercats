@@ -15,6 +15,9 @@ Pueden hacer lo que quieran...
 ### Vehiculo
 
 ## INCORPORAMOS A HEMAN
+
+* Incorporamos a otros heroes de Heman
+
 * Manatarms
 * Teela
 * Horco

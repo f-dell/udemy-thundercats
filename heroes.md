@@ -13,3 +13,9 @@
 * Pantro
 * Tigro
 * Cheetara
+
+## Instalaciones
+* Cubil Felino
+
+## Vehiculo
+* Thundertank

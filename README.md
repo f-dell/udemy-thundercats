@@ -15,3 +15,10 @@ Pueden hacer lo que quieran...
 ### Vehiculo
 
 ## INCORPORAMOS A HEMAN
+* Manatarms
+* Teela
+* Horco
+* Ginger/Batlecat
+
+### Instalaciones
+* Castillo de Grayskull

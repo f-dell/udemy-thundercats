@@ -7,3 +7,9 @@
 * Linterna Verde
 * Robin
 * Volcán Negro
+
+# THUNDERCATS
+* Leon-O
+* Pantro
+* Tigro
+* Cheetara

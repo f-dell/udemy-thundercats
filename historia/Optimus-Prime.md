@@ -1,0 +1,3 @@
+# OPTIMUS PRIME
+
+Optimus Prime, también conocido en Japón como Convoy (コ ン ボ イ Konboi), es un personaje ficticio de la franquicia Transformers. Es un Cybertroniano, una especie extraterrestre de formas de vida robóticas modulares inteligentes autoconfigurables (por ejemplo: automóviles y otros objetos), una combinación sinérgica de evolución biológica e ingeniería tecnológica. En casi todas las versiones de Tranformers, Optimus es el líder de los Autobots, una facción de transformadores que son rivales de los Decepticons, otra facción. Él se define por su fuerte carácter moral y casi siempre es retratado como el héroe principal de la historia, oponiéndose al malvado líder de los Decepticons Megatron.

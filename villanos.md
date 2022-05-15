@@ -10,3 +10,4 @@
 7. Skeletor
 8. Beast Man
 9. Evil Lyn
+10. Mandrilom

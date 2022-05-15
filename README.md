@@ -25,3 +25,6 @@ Pueden hacer lo que quieran...
 
 ### Instalaciones
 * Castillo de Grayskull
+
+## Notas
+* Probando correccion en un open pull request antes de crear el pull request
